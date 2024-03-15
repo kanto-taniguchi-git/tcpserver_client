@@ -1,2 +1,0 @@
-# tcpserver_client
-freeCodeCamp Pythonで学ぶペネトレーションテスト
