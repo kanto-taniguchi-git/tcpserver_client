@@ -117,7 +117,7 @@ scanner.scan(ip_addr, '1-1024', '-v -sU')
 
 **包括的スキャンの実行**  
 ```zsh
-scanner.scan(ip_addr, '1-1024', '-v -sS -sV - sC -A -O')
+scanner.scan(ip_addr, '1-1024', '-v -sS -sV -sC -A -O')
 ```
 **ASCII**  
 英数字といくつかの特殊文字のみをサポートしており、絵文字は含まれていない。  
